@@ -50,6 +50,7 @@
 
 
 
+
 ## 效果截图
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
@@ -61,3 +62,6 @@
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
+
+
+10.11 ADD
